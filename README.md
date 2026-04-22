@@ -61,10 +61,15 @@ Repository Structure
 
 lanmodulin-project/
 │
+
 ├── research-log/        # Structured experimental logs (Markdown)
+
 ├── data/                # Raw and processed structural data
+
 ├── scripts/             # Python preprocessing and analysis tools
+
 ├── mutants/             # Designed variants and associated outputs
+
 └── README.md
 
 Reproducibility
@@ -72,7 +77,9 @@ Reproducibility
 All steps are documented through:
 
 1.Version-controlled research logs
+
 2.Explicit parameter tracking
+
 3. Script-based preprocessing
 
 The workflow is designed to be fully reproducible and auditable.
