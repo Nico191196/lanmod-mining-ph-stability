@@ -11,7 +11,9 @@ Problem Statement
 Lanmodulin is a high-affinity lanthanide-binding protein; however, its functionality is expected to be compromised under extreme acidic conditions due to:
 
 a. Protonation of acidic residues (Asp, Glu)
+
 b. Disruption of electrostatic interactions
+
 c. Destabilization of metal-binding sites
 
 Currently, there are few validated variant optimized for low pH environments relevant to biomining or metal recovery.
@@ -70,6 +72,7 @@ lanmodulin-project/
 
 ├── mutants/             # Designed variants and associated outputs
 
+
 └── README.md
 
 Reproducibility
@@ -94,11 +97,12 @@ Project Goals (Short-Term)
 3. Structural validation of designed variants
 
 Project Goals (Mid-Term)
-1.Stability assessment of mutants
+1. Stability assessment of mutants
 2. Comparative structural analysis versus wild type
 3. Preparation of results for academic evaluation (scholarships / graduate applications)
 
 Contact / Collaboration
 
 Open to academic discussion, feedback, and potential collaboration in computational protein design and biomining applications.
+
 Mail: nicolasvassellati@gmail.com
